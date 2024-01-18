@@ -15,20 +15,24 @@ int main() {
     //Check the operator and perform the corresponding operation
     //if operations
     if (operation == '+') {
+        //addition of two numbers
         double result = num1 + num2; 
         cout << "Result: " << result << endl;
     //else if 
     } else if (operation == '-') {
+        //subtraction of two numbers
         double result = num1 - num2; 
         cout << "Result: " << result << endl; 
     //else if
     } else if (operation == '*') {
+        //multiplication of two numbers
         double result = num1 * num2; 
         cout << "Result: " << result << endl; 
     //else if
     } else if (operation == '/') {
         //checking number 2 is zero, just making sure no zero division error
         if (num2 != 0) {
+            //division of two numbers
             double result = num1 / num2; 
             cout << "Result: " << result << endl; 
         } else {
