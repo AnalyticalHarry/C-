@@ -1,6 +1,6 @@
 ## Basic C++
 
-Download Insatller from Microsoft:
+Download Installer from Microsoft:
 
 1. Windows
 ```bash
@@ -14,3 +14,21 @@ https://code.visualstudio.com/docs/cpp/config-clang-mac
 ```bash
 https://code.visualstudio.com/docs/cpp/config-linux
 ```
+
+Run MSYS2 
+
+```bash
+pacman -Syu
+```
+```bash
+pacman - Su
+```
+```bash
+pacman -S --needed base-devel mingw-w64-ucrt-x86_64-toolchain
+```
+
+Create Enviroment variables
+```bash
+C:\msys64\mingw64\bin
+```
+
