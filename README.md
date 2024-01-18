@@ -2,6 +2,7 @@
 1. Setting up your development environment (IDEs like Visual Studio, Code::Blocks, or using a text editor and command line).
    
 Download Installer from Microsoft:
+
 Windows
 ```bash
 https://code.visualstudio.com/docs/cpp/config-mingw
