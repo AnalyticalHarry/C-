@@ -22,3 +22,10 @@ int main() {
     cout << "The circumference of the circle with radius " << radius << " is: " << circumference << endl;
     return 0;
 }
+
+//******************************************************
+// Author: Hemant Thapa
+// Programming Language: C++
+// Date Pushed to GitHub: 18.01.2024
+// Email: hemantthapa1998@gmail.com
+//******************************************************
