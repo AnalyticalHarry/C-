@@ -1,24 +1,34 @@
 #include <iostream>
 
-int main(){
-    //print string
+int main() {
+    //printing string
     std::cout << "Hello World!" << std::endl;
 
-    //print an integer
-    int num = 100;
-    std::cout << "The value of number is: "<< num << std::endl;
+    //integer Data Types
+    int integerVar = 42;
+    short shortVar = 123;
+    long long longLongVar = 1234567890;
 
-    //print floating point number
-    double valueOfPi = 3.14;
-    std::cout << "Value of Pi is: "<< valueOfPi << std::endl;
+    //floating-point Data Types
+    float floatVar = 3.14f;
+    double doubleVar = 2.71828;
+    long double longDoubleVar = 1.234567890123456789;
 
-    //print character
-    char ch = 'A';
-    std::cout << "The character is: "<< ch << std::endl;
+    //character Data Type
+    char charVar = 'A';
 
-    //print a boolean
-    bool isTrue = true;
-    std::cout <<"The boolean value is: " << isTrue << std::endl;
+    //boolean Data Type
+    bool boolVar = true;
+
+    //additional print statements for the data types
+    std::cout << "int: " << integerVar << std::endl;
+    std::cout << "short: " << shortVar << std::endl;
+    std::cout << "long long: " << longLongVar << std::endl;
+    std::cout << "float: " << floatVar << std::endl;
+    std::cout << "double: " << doubleVar << std::endl;
+    std::cout << "long double: " << longDoubleVar << std::endl;
+    std::cout << "char: " << charVar << std::endl;
+    std::cout << "bool: " << boolVar << std::endl;
 
     return 0;
 }
