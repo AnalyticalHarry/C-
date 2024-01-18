@@ -73,3 +73,10 @@ int main() {
     std::cout << "Power of two numbers is " << power_result << std::endl;
     return 0;
 }
+
+//******************************************************
+// Author: Hemant Thapa
+// Programming Language: C++
+// Date Pushed to GitHub: 18.01.2024
+// Email: hemantthapa1998@gmail.com
+//******************************************************

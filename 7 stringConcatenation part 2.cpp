@@ -5,10 +5,6 @@
 std::string concatenateStrings(const std::string stringOne, const std::string stringTwo) {
     return stringOne + stringTwo;
 }
-/*
-Void functions perform a task or a series of actions but do not produce a value that can be used in further computations.
-In the function declaration and definition, you specify void as the return type to indicate that the function is void and does not return a value.
-*/
 
 //function for the first set of concatenations, which will directly print output
 void firstSetOfConcatenation() {
@@ -32,3 +28,10 @@ int main() {
     secondSetOfConcatenation();
     return 0;
 }
+
+//******************************************************
+// Author: Hemant Thapa
+// Programming Language: C++
+// Date Pushed to GitHub: 18.01.2024
+// Email: hemantthapa1998@gmail.com
+//******************************************************
