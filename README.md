@@ -1,5 +1,6 @@
 ## Basic C++
-1. Setting up your development environment (IDEs like Visual Studio, Code::Blocks, or using a text editor and command line).
+
+### 1. Setting up your development environment (IDEs like Visual Studio, Code::Blocks, or using a text editor and command line).
    
 Download Installer from Microsoft:
 
@@ -33,7 +34,7 @@ Create Enviroment variables
 C:\msys64\mingw64\bin
 ```
 
-2. Variables and Data Types
-3. Input and Output
-4. Control Flow
-5. Functions
+### 2. Variables and Data Types
+### 3. Input and Output
+### 4. Control Flow
+### 5. Functions
