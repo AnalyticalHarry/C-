@@ -1,4 +1,4 @@
-// header files for input and output operations
+//header files for input and output operations
 #include <iostream>
 //time-related functions
 #include <ctime>
