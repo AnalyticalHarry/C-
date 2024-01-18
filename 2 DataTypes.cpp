@@ -1,8 +1,12 @@
+//input/output stream library
 #include <iostream>
+//td namespace to simplify access to standard library elements
+using namespace std;
 
 int main() {
     //printing string
     std::cout << "Hello World!" << std::endl;
+    string name = "Analytical Harry";
 
     //integer Data Types
     int integerVar = 42;
@@ -22,6 +26,7 @@ int main() {
 
     //additional print statements for the data types
     std::cout << "int: " << integerVar << std::endl;
+    cout << "String variable: " << name << endl;
     std::cout << "short: " << shortVar << std::endl;
     std::cout << "long long: " << longLongVar << std::endl;
     std::cout << "float: " << floatVar << std::endl;
