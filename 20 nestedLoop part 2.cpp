@@ -8,7 +8,6 @@ int main() {
     //prompt the user to enter acceleration
     //store the users input for acceleration
     cout << "Enter acceleration (m/s^2): "; cin >> acceleration;  
-
     //prompt the user to enter mass
     //store the users input for mass
     cout << "Enter mass (kg): "; cin >> mass;  
@@ -25,3 +24,10 @@ int main() {
     }
     return 0;  
 }
+
+//******************************************************
+// Author: Hemant Thapa
+// Programming Language: C++
+// Date Pushed to GitHub: 19.01.2024
+// Email: hemantthapa1998@gmail.com
+//******************************************************
