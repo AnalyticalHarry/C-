@@ -50,3 +50,10 @@ int main() {
     std::cout << std::endl;
     return 0;
 }
+
+//******************************************************
+// Author: Hemant Thapa
+// Programming Language: C++
+// Date Pushed to GitHub: 19.01.2024
+// Email: hemantthapa1998@gmail.com
+//******************************************************
