@@ -38,3 +38,9 @@ C:\msys64\mingw64\bin
 ### 3. Input and Output
 ### 4. Control Flow
 ### 5. Functions
+
+//******************************************************
+// Author: Hemant Thapa
+// Programming Language: C++
+// Email: hemantthapa1998@gmail.com
+//******************************************************
