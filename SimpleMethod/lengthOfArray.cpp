@@ -10,3 +10,10 @@ int main() {
     //return zero to indicate successful execution
     return 0;
 }
+
+//******************************************************
+// Author: Hemant Thapa
+// Programming Language: C++
+// Date Pushed to GitHub: 20.01.2024
+// Email: hemantthapa1998@gmail.com
+//******************************************************
